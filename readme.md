@@ -14,8 +14,9 @@ I've been programming since my early teens, I've always been attracted to it, I 
 * ⚡  I only share funny memes
 
 
-## Social
+### Social
 ![Steam Card](https://card.yuy1n.io/card/76561199079633259/dark,en,badge,group,bg-game-275850,badges,games,reviews)
+![Codewars](https://github.r2v.ch/codewars?user=mandarin-dev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 ### Skills
 
