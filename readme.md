@@ -12,6 +12,10 @@ I've been programming since my early teens, I've always been attracted to it, I 
 * 🤝  I'm open to collaborating on interesting people
 * ⚡  I only share funny memes
 
+
+## Social
+![Steam Card](https://card.yuy1n.io/card/76561199079633259/dark,en,badge,group,bg-game-275850,badges,games,reviews)
+
 ### Skills
 
 
@@ -41,7 +45,3 @@ I've been programming since my early teens, I've always been attracted to it, I 
 
 ## Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mandarin-dev)](https://github.com/Mandarin-dev)
-
-
-## My Steam profile
-![Steam Card](https://card.yuy1n.io/card/76561199079633259/dark,en,badge,group,bg-game-275850,badges,games,reviews)
