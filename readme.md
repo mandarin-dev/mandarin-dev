@@ -2,7 +2,7 @@
 ## Welcome to My GitHub Profile!
 ![](https://komarev.com/ghpvc/?username=mandarin-dev&style=for-the-badge)
 ![](https://img.shields.io/badge/%23%20Open_to_work-green?style=for-the-badge)
-[](https://www.codewars.com/users/mandarin-dev/badges/micro)
+![](https://www.codewars.com/users/mandarin-dev/badges/micro)
 ![img\[\]](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 
